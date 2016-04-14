@@ -1,0 +1,12 @@
+###组件安装流程
+1. 增加相应菜单
+2. 增加相应数据表
+3. 设置各目录和导航栏的URL指向地址
+###组件卸载流程
+1. 删除相应菜单
+2. 删除相应数据表
+3. 删除导航
+###Promotion_Active
+###Promotion_Goods
+###Promotion_Rule
+###Promotion_Menu
